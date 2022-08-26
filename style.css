@@ -1,0 +1,8 @@
+.course-title {
+    text-align: center;
+}
+
+.course-add {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
