@@ -6,3 +6,23 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+
+.fa-facebook {
+    color: white;
+    padding-right: 10px;
+}
+
+.fa-linkedin {
+    color: white;
+    padding-right: 10px;
+}
+
+.fa-twitter {
+    color: white;
+    padding-right: 10px;
+}
+
+.fa-tiktok {
+    color: white;
+    padding-right: 10px;
+}
